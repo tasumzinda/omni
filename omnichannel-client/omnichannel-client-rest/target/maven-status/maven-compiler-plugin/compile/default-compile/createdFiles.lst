@@ -1,0 +1,4 @@
+com/stewardbank/omnichannel/client/rest/dto/UserDTO.class
+com/stewardbank/omnichannel/client/rest/config/Config.class
+com/stewardbank/omnichannel/client/rest/resource/CustomerResource.class
+com/stewardbank/omnichannel/client/rest/resource/LoginResource.class
